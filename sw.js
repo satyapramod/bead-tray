@@ -1,12 +1,13 @@
 // Offline support: serve from cache, refresh the cache in the background.
 // Bump CACHE when files change so old copies are cleared.
-const CACHE = 'beadtray-v1';
+const CACHE = 'beadtray-v3';
 const ASSETS = [
   './',
   'index.html',
   'manifest.webmanifest',
   'icons/icon.svg',
   'css/styles.css',
+  'js/data/voice-clips.js',
   'js/settings.js',
   'js/speech.js',
   'js/ui.js',
@@ -14,11 +15,18 @@ const ASSETS = [
   'js/activities/find.js',
   'js/activities/add.js',
   'js/activities/take.js',
+  'js/data/india-map.js',
+  'js/data/animals.js',
+  'js/activities/animals.js',
   'js/app.js',
 ];
 
+// Linda's recorded clips, so the voice works offline too.
+importScripts('js/data/voice-clips.js');
+const CLIPS = Object.values(self.App.voiceClips).map((id) => `audio/voice/${id}.m4a`);
+
 self.addEventListener('install', (e) => {
-  e.waitUntil(caches.open(CACHE).then((c) => c.addAll(ASSETS)).then(() => self.skipWaiting()));
+  e.waitUntil(caches.open(CACHE).then((c) => c.addAll(ASSETS.concat(CLIPS))).then(() => self.skipWaiting()));
 });
 
 self.addEventListener('activate', (e) => {

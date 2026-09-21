@@ -1,0 +1,1370 @@
+[
+ {
+  "text": "one",
+  "group": "numbers",
+  "id": "one",
+  "spoken": "One."
+ },
+ {
+  "text": "two",
+  "group": "numbers",
+  "id": "two",
+  "spoken": "Two."
+ },
+ {
+  "text": "three",
+  "group": "numbers",
+  "id": "three",
+  "spoken": "Three."
+ },
+ {
+  "text": "four",
+  "group": "numbers",
+  "id": "four",
+  "spoken": "Four."
+ },
+ {
+  "text": "five",
+  "group": "numbers",
+  "id": "five",
+  "spoken": "Five."
+ },
+ {
+  "text": "six",
+  "group": "numbers",
+  "id": "six",
+  "spoken": "Six."
+ },
+ {
+  "text": "seven",
+  "group": "numbers",
+  "id": "seven",
+  "spoken": "Seven."
+ },
+ {
+  "text": "eight",
+  "group": "numbers",
+  "id": "eight",
+  "spoken": "Eight."
+ },
+ {
+  "text": "nine",
+  "group": "numbers",
+  "id": "nine",
+  "spoken": "Nine."
+ },
+ {
+  "text": "ten",
+  "group": "numbers",
+  "id": "ten",
+  "spoken": "Ten."
+ },
+ {
+  "text": "You did it. Well done.",
+  "group": "core",
+  "id": "you-did-it-well-done",
+  "spoken": "You did it. Well done."
+ },
+ {
+  "text": "One, two, three, four, five.",
+  "group": "core",
+  "id": "one-two-three-four-five",
+  "spoken": "One, two, three, four, five."
+ },
+ {
+  "text": "Touch the bead and count.",
+  "group": "core",
+  "id": "touch-the-bead-and-count",
+  "spoken": "Touch the bead and count."
+ },
+ {
+  "text": "Touch each bead and count.",
+  "group": "core",
+  "id": "touch-each-bead-and-count",
+  "spoken": "Touch each bead and count."
+ },
+ {
+  "text": "one. This is one.",
+  "group": "learn",
+  "id": "one-this-is-one",
+  "spoken": "One. This is one."
+ },
+ {
+  "text": "two. This is two.",
+  "group": "learn",
+  "id": "two-this-is-two",
+  "spoken": "Two. This is two."
+ },
+ {
+  "text": "three. This is three.",
+  "group": "learn",
+  "id": "three-this-is-three",
+  "spoken": "Three. This is three."
+ },
+ {
+  "text": "four. This is four.",
+  "group": "learn",
+  "id": "four-this-is-four",
+  "spoken": "Four. This is four."
+ },
+ {
+  "text": "five. This is five.",
+  "group": "learn",
+  "id": "five-this-is-five",
+  "spoken": "Five. This is five."
+ },
+ {
+  "text": "six. This is six.",
+  "group": "learn",
+  "id": "six-this-is-six",
+  "spoken": "Six. This is six."
+ },
+ {
+  "text": "seven. This is seven.",
+  "group": "learn",
+  "id": "seven-this-is-seven",
+  "spoken": "Seven. This is seven."
+ },
+ {
+  "text": "eight. This is eight.",
+  "group": "learn",
+  "id": "eight-this-is-eight",
+  "spoken": "Eight. This is eight."
+ },
+ {
+  "text": "nine. This is nine.",
+  "group": "learn",
+  "id": "nine-this-is-nine",
+  "spoken": "Nine. This is nine."
+ },
+ {
+  "text": "ten. This is ten.",
+  "group": "learn",
+  "id": "ten-this-is-ten",
+  "spoken": "Ten. This is ten."
+ },
+ {
+  "text": "Find one.",
+  "group": "find",
+  "id": "find-one",
+  "spoken": "Find one."
+ },
+ {
+  "text": "Yes. This is one.",
+  "group": "find",
+  "id": "yes-this-is-one",
+  "spoken": "Yes. This is one."
+ },
+ {
+  "text": "This is one.",
+  "group": "find",
+  "id": "this-is-one",
+  "spoken": "This is one."
+ },
+ {
+  "text": "Let's find one.",
+  "group": "find",
+  "id": "let-s-find-one",
+  "spoken": "Let's find one."
+ },
+ {
+  "text": "Find two.",
+  "group": "find",
+  "id": "find-two",
+  "spoken": "Find two."
+ },
+ {
+  "text": "Yes. This is two.",
+  "group": "find",
+  "id": "yes-this-is-two",
+  "spoken": "Yes. This is two."
+ },
+ {
+  "text": "This is two.",
+  "group": "find",
+  "id": "this-is-two",
+  "spoken": "This is two."
+ },
+ {
+  "text": "Let's find two.",
+  "group": "find",
+  "id": "let-s-find-two",
+  "spoken": "Let's find two."
+ },
+ {
+  "text": "Find three.",
+  "group": "find",
+  "id": "find-three",
+  "spoken": "Find three."
+ },
+ {
+  "text": "Yes. This is three.",
+  "group": "find",
+  "id": "yes-this-is-three",
+  "spoken": "Yes. This is three."
+ },
+ {
+  "text": "This is three.",
+  "group": "find",
+  "id": "this-is-three",
+  "spoken": "This is three."
+ },
+ {
+  "text": "Let's find three.",
+  "group": "find",
+  "id": "let-s-find-three",
+  "spoken": "Let's find three."
+ },
+ {
+  "text": "Find four.",
+  "group": "find",
+  "id": "find-four",
+  "spoken": "Find four."
+ },
+ {
+  "text": "Yes. This is four.",
+  "group": "find",
+  "id": "yes-this-is-four",
+  "spoken": "Yes. This is four."
+ },
+ {
+  "text": "This is four.",
+  "group": "find",
+  "id": "this-is-four",
+  "spoken": "This is four."
+ },
+ {
+  "text": "Let's find four.",
+  "group": "find",
+  "id": "let-s-find-four",
+  "spoken": "Let's find four."
+ },
+ {
+  "text": "Find five.",
+  "group": "find",
+  "id": "find-five",
+  "spoken": "Find five."
+ },
+ {
+  "text": "Yes. This is five.",
+  "group": "find",
+  "id": "yes-this-is-five",
+  "spoken": "Yes. This is five."
+ },
+ {
+  "text": "This is five.",
+  "group": "find",
+  "id": "this-is-five",
+  "spoken": "This is five."
+ },
+ {
+  "text": "Let's find five.",
+  "group": "find",
+  "id": "let-s-find-five",
+  "spoken": "Let's find five."
+ },
+ {
+  "text": "Find six.",
+  "group": "find",
+  "id": "find-six",
+  "spoken": "Find six."
+ },
+ {
+  "text": "Yes. This is six.",
+  "group": "find",
+  "id": "yes-this-is-six",
+  "spoken": "Yes. This is six."
+ },
+ {
+  "text": "This is six.",
+  "group": "find",
+  "id": "this-is-six",
+  "spoken": "This is six."
+ },
+ {
+  "text": "Let's find six.",
+  "group": "find",
+  "id": "let-s-find-six",
+  "spoken": "Let's find six."
+ },
+ {
+  "text": "Find seven.",
+  "group": "find",
+  "id": "find-seven",
+  "spoken": "Find seven."
+ },
+ {
+  "text": "Yes. This is seven.",
+  "group": "find",
+  "id": "yes-this-is-seven",
+  "spoken": "Yes. This is seven."
+ },
+ {
+  "text": "This is seven.",
+  "group": "find",
+  "id": "this-is-seven",
+  "spoken": "This is seven."
+ },
+ {
+  "text": "Let's find seven.",
+  "group": "find",
+  "id": "let-s-find-seven",
+  "spoken": "Let's find seven."
+ },
+ {
+  "text": "Find eight.",
+  "group": "find",
+  "id": "find-eight",
+  "spoken": "Find eight."
+ },
+ {
+  "text": "Yes. This is eight.",
+  "group": "find",
+  "id": "yes-this-is-eight",
+  "spoken": "Yes. This is eight."
+ },
+ {
+  "text": "This is eight.",
+  "group": "find",
+  "id": "this-is-eight",
+  "spoken": "This is eight."
+ },
+ {
+  "text": "Let's find eight.",
+  "group": "find",
+  "id": "let-s-find-eight",
+  "spoken": "Let's find eight."
+ },
+ {
+  "text": "Find nine.",
+  "group": "find",
+  "id": "find-nine",
+  "spoken": "Find nine."
+ },
+ {
+  "text": "Yes. This is nine.",
+  "group": "find",
+  "id": "yes-this-is-nine",
+  "spoken": "Yes. This is nine."
+ },
+ {
+  "text": "This is nine.",
+  "group": "find",
+  "id": "this-is-nine",
+  "spoken": "This is nine."
+ },
+ {
+  "text": "Let's find nine.",
+  "group": "find",
+  "id": "let-s-find-nine",
+  "spoken": "Let's find nine."
+ },
+ {
+  "text": "Find ten.",
+  "group": "find",
+  "id": "find-ten",
+  "spoken": "Find ten."
+ },
+ {
+  "text": "Yes. This is ten.",
+  "group": "find",
+  "id": "yes-this-is-ten",
+  "spoken": "Yes. This is ten."
+ },
+ {
+  "text": "This is ten.",
+  "group": "find",
+  "id": "this-is-ten",
+  "spoken": "This is ten."
+ },
+ {
+  "text": "Let's find ten.",
+  "group": "find",
+  "id": "let-s-find-ten",
+  "spoken": "Let's find ten."
+ },
+ {
+  "text": "Count this bead.",
+  "group": "core",
+  "id": "count-this-bead",
+  "spoken": "Count this bead."
+ },
+ {
+  "text": "Count these beads.",
+  "group": "core",
+  "id": "count-these-beads",
+  "spoken": "Count these beads."
+ },
+ {
+  "text": "Now count this bead.",
+  "group": "core",
+  "id": "now-count-this-bead",
+  "spoken": "Now count this bead."
+ },
+ {
+  "text": "Now count these beads.",
+  "group": "core",
+  "id": "now-count-these-beads",
+  "spoken": "Now count these beads."
+ },
+ {
+  "text": "Put them all in the bowl, and count them all.",
+  "group": "core",
+  "id": "put-them-all-in-the-bowl-and-count-them-all",
+  "spoken": "Put them all in the bowl, and count them all."
+ },
+ {
+  "text": "one and one make two.",
+  "group": "add",
+  "id": "one-and-one-make-two",
+  "spoken": "One and one make two."
+ },
+ {
+  "text": "one and two make three.",
+  "group": "add",
+  "id": "one-and-two-make-three",
+  "spoken": "One and two make three."
+ },
+ {
+  "text": "one and three make four.",
+  "group": "add",
+  "id": "one-and-three-make-four",
+  "spoken": "One and three make four."
+ },
+ {
+  "text": "one and four make five.",
+  "group": "add",
+  "id": "one-and-four-make-five",
+  "spoken": "One and four make five."
+ },
+ {
+  "text": "one and five make six.",
+  "group": "add",
+  "id": "one-and-five-make-six",
+  "spoken": "One and five make six."
+ },
+ {
+  "text": "two and one make three.",
+  "group": "add",
+  "id": "two-and-one-make-three",
+  "spoken": "Two and one make three."
+ },
+ {
+  "text": "two and two make four.",
+  "group": "add",
+  "id": "two-and-two-make-four",
+  "spoken": "Two and two make four."
+ },
+ {
+  "text": "two and three make five.",
+  "group": "add",
+  "id": "two-and-three-make-five",
+  "spoken": "Two and three make five."
+ },
+ {
+  "text": "two and four make six.",
+  "group": "add",
+  "id": "two-and-four-make-six",
+  "spoken": "Two and four make six."
+ },
+ {
+  "text": "two and five make seven.",
+  "group": "add",
+  "id": "two-and-five-make-seven",
+  "spoken": "Two and five make seven."
+ },
+ {
+  "text": "three and one make four.",
+  "group": "add",
+  "id": "three-and-one-make-four",
+  "spoken": "Three and one make four."
+ },
+ {
+  "text": "three and two make five.",
+  "group": "add",
+  "id": "three-and-two-make-five",
+  "spoken": "Three and two make five."
+ },
+ {
+  "text": "three and three make six.",
+  "group": "add",
+  "id": "three-and-three-make-six",
+  "spoken": "Three and three make six."
+ },
+ {
+  "text": "three and four make seven.",
+  "group": "add",
+  "id": "three-and-four-make-seven",
+  "spoken": "Three and four make seven."
+ },
+ {
+  "text": "three and five make eight.",
+  "group": "add",
+  "id": "three-and-five-make-eight",
+  "spoken": "Three and five make eight."
+ },
+ {
+  "text": "four and one make five.",
+  "group": "add",
+  "id": "four-and-one-make-five",
+  "spoken": "Four and one make five."
+ },
+ {
+  "text": "four and two make six.",
+  "group": "add",
+  "id": "four-and-two-make-six",
+  "spoken": "Four and two make six."
+ },
+ {
+  "text": "four and three make seven.",
+  "group": "add",
+  "id": "four-and-three-make-seven",
+  "spoken": "Four and three make seven."
+ },
+ {
+  "text": "four and four make eight.",
+  "group": "add",
+  "id": "four-and-four-make-eight",
+  "spoken": "Four and four make eight."
+ },
+ {
+  "text": "four and five make nine.",
+  "group": "add",
+  "id": "four-and-five-make-nine",
+  "spoken": "Four and five make nine."
+ },
+ {
+  "text": "five and one make six.",
+  "group": "add",
+  "id": "five-and-one-make-six",
+  "spoken": "Five and one make six."
+ },
+ {
+  "text": "five and two make seven.",
+  "group": "add",
+  "id": "five-and-two-make-seven",
+  "spoken": "Five and two make seven."
+ },
+ {
+  "text": "five and three make eight.",
+  "group": "add",
+  "id": "five-and-three-make-eight",
+  "spoken": "Five and three make eight."
+ },
+ {
+  "text": "five and four make nine.",
+  "group": "add",
+  "id": "five-and-four-make-nine",
+  "spoken": "Five and four make nine."
+ },
+ {
+  "text": "five and five make ten.",
+  "group": "add",
+  "id": "five-and-five-make-ten",
+  "spoken": "Five and five make ten."
+ },
+ {
+  "text": "Count the beads.",
+  "group": "core",
+  "id": "count-the-beads",
+  "spoken": "Count the beads."
+ },
+ {
+  "text": "How many are left? Count it.",
+  "group": "core",
+  "id": "how-many-are-left-count-it",
+  "spoken": "How many are left? Count it."
+ },
+ {
+  "text": "How many are left? Count them.",
+  "group": "core",
+  "id": "how-many-are-left-count-them",
+  "spoken": "How many are left? Count them."
+ },
+ {
+  "text": "Take away one. Put it on the plate.",
+  "group": "core",
+  "id": "take-away-one-put-it-on-the-plate",
+  "spoken": "Take away one. Put it on the plate."
+ },
+ {
+  "text": "Take away two. Put them on the plate.",
+  "group": "core",
+  "id": "take-away-two-put-them-on-the-plate",
+  "spoken": "Take away two. Put them on the plate."
+ },
+ {
+  "text": "Take away three. Put them on the plate.",
+  "group": "core",
+  "id": "take-away-three-put-them-on-the-plate",
+  "spoken": "Take away three. Put them on the plate."
+ },
+ {
+  "text": "Take away four. Put them on the plate.",
+  "group": "core",
+  "id": "take-away-four-put-them-on-the-plate",
+  "spoken": "Take away four. Put them on the plate."
+ },
+ {
+  "text": "Take away five. Put them on the plate.",
+  "group": "core",
+  "id": "take-away-five-put-them-on-the-plate",
+  "spoken": "Take away five. Put them on the plate."
+ },
+ {
+  "text": "two take away one leaves one.",
+  "group": "take",
+  "id": "two-take-away-one-leaves-one",
+  "spoken": "Two take away one leaves one."
+ },
+ {
+  "text": "three take away one leaves two.",
+  "group": "take",
+  "id": "three-take-away-one-leaves-two",
+  "spoken": "Three take away one leaves two."
+ },
+ {
+  "text": "three take away two leaves one.",
+  "group": "take",
+  "id": "three-take-away-two-leaves-one",
+  "spoken": "Three take away two leaves one."
+ },
+ {
+  "text": "four take away one leaves three.",
+  "group": "take",
+  "id": "four-take-away-one-leaves-three",
+  "spoken": "Four take away one leaves three."
+ },
+ {
+  "text": "four take away two leaves two.",
+  "group": "take",
+  "id": "four-take-away-two-leaves-two",
+  "spoken": "Four take away two leaves two."
+ },
+ {
+  "text": "four take away three leaves one.",
+  "group": "take",
+  "id": "four-take-away-three-leaves-one",
+  "spoken": "Four take away three leaves one."
+ },
+ {
+  "text": "five take away one leaves four.",
+  "group": "take",
+  "id": "five-take-away-one-leaves-four",
+  "spoken": "Five take away one leaves four."
+ },
+ {
+  "text": "five take away two leaves three.",
+  "group": "take",
+  "id": "five-take-away-two-leaves-three",
+  "spoken": "Five take away two leaves three."
+ },
+ {
+  "text": "five take away three leaves two.",
+  "group": "take",
+  "id": "five-take-away-three-leaves-two",
+  "spoken": "Five take away three leaves two."
+ },
+ {
+  "text": "five take away four leaves one.",
+  "group": "take",
+  "id": "five-take-away-four-leaves-one",
+  "spoken": "Five take away four leaves one."
+ },
+ {
+  "text": "six take away one leaves five.",
+  "group": "take",
+  "id": "six-take-away-one-leaves-five",
+  "spoken": "Six take away one leaves five."
+ },
+ {
+  "text": "six take away two leaves four.",
+  "group": "take",
+  "id": "six-take-away-two-leaves-four",
+  "spoken": "Six take away two leaves four."
+ },
+ {
+  "text": "six take away three leaves three.",
+  "group": "take",
+  "id": "six-take-away-three-leaves-three",
+  "spoken": "Six take away three leaves three."
+ },
+ {
+  "text": "six take away four leaves two.",
+  "group": "take",
+  "id": "six-take-away-four-leaves-two",
+  "spoken": "Six take away four leaves two."
+ },
+ {
+  "text": "six take away five leaves one.",
+  "group": "take",
+  "id": "six-take-away-five-leaves-one",
+  "spoken": "Six take away five leaves one."
+ },
+ {
+  "text": "seven take away one leaves six.",
+  "group": "take",
+  "id": "seven-take-away-one-leaves-six",
+  "spoken": "Seven take away one leaves six."
+ },
+ {
+  "text": "seven take away two leaves five.",
+  "group": "take",
+  "id": "seven-take-away-two-leaves-five",
+  "spoken": "Seven take away two leaves five."
+ },
+ {
+  "text": "seven take away three leaves four.",
+  "group": "take",
+  "id": "seven-take-away-three-leaves-four",
+  "spoken": "Seven take away three leaves four."
+ },
+ {
+  "text": "seven take away four leaves three.",
+  "group": "take",
+  "id": "seven-take-away-four-leaves-three",
+  "spoken": "Seven take away four leaves three."
+ },
+ {
+  "text": "seven take away five leaves two.",
+  "group": "take",
+  "id": "seven-take-away-five-leaves-two",
+  "spoken": "Seven take away five leaves two."
+ },
+ {
+  "text": "eight take away one leaves seven.",
+  "group": "take",
+  "id": "eight-take-away-one-leaves-seven",
+  "spoken": "Eight take away one leaves seven."
+ },
+ {
+  "text": "eight take away two leaves six.",
+  "group": "take",
+  "id": "eight-take-away-two-leaves-six",
+  "spoken": "Eight take away two leaves six."
+ },
+ {
+  "text": "eight take away three leaves five.",
+  "group": "take",
+  "id": "eight-take-away-three-leaves-five",
+  "spoken": "Eight take away three leaves five."
+ },
+ {
+  "text": "eight take away four leaves four.",
+  "group": "take",
+  "id": "eight-take-away-four-leaves-four",
+  "spoken": "Eight take away four leaves four."
+ },
+ {
+  "text": "eight take away five leaves three.",
+  "group": "take",
+  "id": "eight-take-away-five-leaves-three",
+  "spoken": "Eight take away five leaves three."
+ },
+ {
+  "text": "nine take away one leaves eight.",
+  "group": "take",
+  "id": "nine-take-away-one-leaves-eight",
+  "spoken": "Nine take away one leaves eight."
+ },
+ {
+  "text": "nine take away two leaves seven.",
+  "group": "take",
+  "id": "nine-take-away-two-leaves-seven",
+  "spoken": "Nine take away two leaves seven."
+ },
+ {
+  "text": "nine take away three leaves six.",
+  "group": "take",
+  "id": "nine-take-away-three-leaves-six",
+  "spoken": "Nine take away three leaves six."
+ },
+ {
+  "text": "nine take away four leaves five.",
+  "group": "take",
+  "id": "nine-take-away-four-leaves-five",
+  "spoken": "Nine take away four leaves five."
+ },
+ {
+  "text": "nine take away five leaves four.",
+  "group": "take",
+  "id": "nine-take-away-five-leaves-four",
+  "spoken": "Nine take away five leaves four."
+ },
+ {
+  "text": "ten take away one leaves nine.",
+  "group": "take",
+  "id": "ten-take-away-one-leaves-nine",
+  "spoken": "Ten take away one leaves nine."
+ },
+ {
+  "text": "ten take away two leaves eight.",
+  "group": "take",
+  "id": "ten-take-away-two-leaves-eight",
+  "spoken": "Ten take away two leaves eight."
+ },
+ {
+  "text": "ten take away three leaves seven.",
+  "group": "take",
+  "id": "ten-take-away-three-leaves-seven",
+  "spoken": "Ten take away three leaves seven."
+ },
+ {
+  "text": "ten take away four leaves six.",
+  "group": "take",
+  "id": "ten-take-away-four-leaves-six",
+  "spoken": "Ten take away four leaves six."
+ },
+ {
+  "text": "ten take away five leaves five.",
+  "group": "take",
+  "id": "ten-take-away-five-leaves-five",
+  "spoken": "Ten take away five leaves five."
+ },
+ {
+  "text": "Andhra Pradesh",
+  "group": "states",
+  "id": "andhra-pradesh",
+  "spoken": "Andhra Pradesh"
+ },
+ {
+  "text": "Arunachal Pradesh",
+  "group": "states",
+  "id": "arunachal-pradesh",
+  "spoken": "Arunachal Pradesh"
+ },
+ {
+  "text": "Assam",
+  "group": "states",
+  "id": "assam",
+  "spoken": "Assam"
+ },
+ {
+  "text": "Bihar",
+  "group": "states",
+  "id": "bihar",
+  "spoken": "Bihar"
+ },
+ {
+  "text": "Chhattisgarh",
+  "group": "states",
+  "id": "chhattisgarh",
+  "spoken": "Chhattisgarh"
+ },
+ {
+  "text": "Goa",
+  "group": "states",
+  "id": "goa",
+  "spoken": "Goa"
+ },
+ {
+  "text": "Gujarat",
+  "group": "states",
+  "id": "gujarat",
+  "spoken": "Gujarat"
+ },
+ {
+  "text": "Haryana",
+  "group": "states",
+  "id": "haryana",
+  "spoken": "Haryana"
+ },
+ {
+  "text": "Himachal Pradesh",
+  "group": "states",
+  "id": "himachal-pradesh",
+  "spoken": "Himachal Pradesh"
+ },
+ {
+  "text": "Jharkhand",
+  "group": "states",
+  "id": "jharkhand",
+  "spoken": "Jharkhand"
+ },
+ {
+  "text": "Karnataka",
+  "group": "states",
+  "id": "karnataka",
+  "spoken": "Karnataka"
+ },
+ {
+  "text": "Kerala",
+  "group": "states",
+  "id": "kerala",
+  "spoken": "Kerala"
+ },
+ {
+  "text": "Madhya Pradesh",
+  "group": "states",
+  "id": "madhya-pradesh",
+  "spoken": "Madhya Pradesh"
+ },
+ {
+  "text": "Maharashtra",
+  "group": "states",
+  "id": "maharashtra",
+  "spoken": "Maharashtra"
+ },
+ {
+  "text": "Manipur",
+  "group": "states",
+  "id": "manipur",
+  "spoken": "Manipur"
+ },
+ {
+  "text": "Meghalaya",
+  "group": "states",
+  "id": "meghalaya",
+  "spoken": "Meghalaya"
+ },
+ {
+  "text": "Mizoram",
+  "group": "states",
+  "id": "mizoram",
+  "spoken": "Mizoram"
+ },
+ {
+  "text": "Nagaland",
+  "group": "states",
+  "id": "nagaland",
+  "spoken": "Nagaland"
+ },
+ {
+  "text": "Odisha",
+  "group": "states",
+  "id": "odisha",
+  "spoken": "Odisha"
+ },
+ {
+  "text": "Punjab",
+  "group": "states",
+  "id": "punjab",
+  "spoken": "Punjab"
+ },
+ {
+  "text": "Rajasthan",
+  "group": "states",
+  "id": "rajasthan",
+  "spoken": "Rajasthan"
+ },
+ {
+  "text": "Sikkim",
+  "group": "states",
+  "id": "sikkim",
+  "spoken": "Sikkim"
+ },
+ {
+  "text": "Tamil Nadu",
+  "group": "states",
+  "id": "tamil-nadu",
+  "spoken": "Tamil Nadu"
+ },
+ {
+  "text": "Telangana",
+  "group": "states",
+  "id": "telangana",
+  "spoken": "Telangana"
+ },
+ {
+  "text": "Tripura",
+  "group": "states",
+  "id": "tripura",
+  "spoken": "Tripura"
+ },
+ {
+  "text": "Uttar Pradesh",
+  "group": "states",
+  "id": "uttar-pradesh",
+  "spoken": "Uttar Pradesh"
+ },
+ {
+  "text": "Uttarakhand",
+  "group": "states",
+  "id": "uttarakhand",
+  "spoken": "Uttarakhand"
+ },
+ {
+  "text": "West Bengal",
+  "group": "states",
+  "id": "west-bengal",
+  "spoken": "West Bengal"
+ },
+ {
+  "text": "Jammu & Kashmir and Ladakh",
+  "group": "states",
+  "id": "jammu-and-kashmir-and-ladakh",
+  "spoken": "Jammu and Kashmir and Ladakh"
+ },
+ {
+  "text": "Delhi",
+  "group": "states",
+  "id": "delhi",
+  "spoken": "Delhi"
+ },
+ {
+  "text": "Chandigarh",
+  "group": "states",
+  "id": "chandigarh",
+  "spoken": "Chandigarh"
+ },
+ {
+  "text": "Puducherry",
+  "group": "states",
+  "id": "puducherry",
+  "spoken": "Puducherry"
+ },
+ {
+  "text": "Andaman & Nicobar Islands",
+  "group": "states",
+  "id": "andaman-and-nicobar-islands",
+  "spoken": "Andaman and Nicobar Islands"
+ },
+ {
+  "text": "Lakshadweep",
+  "group": "states",
+  "id": "lakshadweep",
+  "spoken": "Lakshadweep"
+ },
+ {
+  "text": "Tiger. The tiger is India's national animal. It has orange fur with black stripes.",
+  "group": "animals",
+  "id": "tiger-the-tiger-is-india-s-national-animal-it-has-orange-fur-with-blac",
+  "spoken": "Tiger. The tiger is India's national animal. It has orange fur with black stripes."
+ },
+ {
+  "text": "Elephant. The elephant is the biggest animal on land. It uses its long trunk like a hand.",
+  "group": "animals",
+  "id": "elephant-the-elephant-is-the-biggest-animal-on-land-it-uses-its-long-t",
+  "spoken": "Elephant. The elephant is the biggest animal on land. It uses its long trunk like a hand."
+ },
+ {
+  "text": "One-horned rhino. The rhino has one big horn on its nose and thick skin like armour.",
+  "group": "animals",
+  "id": "one-horned-rhino-the-rhino-has-one-big-horn-on-its-nose-and-thick-skin",
+  "spoken": "One-horned rhino. The rhino has one big horn on its nose and thick skin like armour."
+ },
+ {
+  "text": "Asiatic lion. These lions live only in the Gir forest of Gujarat.",
+  "group": "animals",
+  "id": "asiatic-lion-these-lions-live-only-in-the-gir-forest-of-gujarat",
+  "spoken": "Asiatic lion. These lions live only in the Gir forest of Gujarat."
+ },
+ {
+  "text": "Leopard. The leopard has spots all over and is a very good climber.",
+  "group": "animals",
+  "id": "leopard-the-leopard-has-spots-all-over-and-is-a-very-good-climber",
+  "spoken": "Leopard. The leopard has spots all over and is a very good climber."
+ },
+ {
+  "text": "Snow leopard. The snow leopard lives high in the snowy mountains. Its long, fluffy tail keeps it warm.",
+  "group": "animals",
+  "id": "snow-leopard-the-snow-leopard-lives-high-in-the-snowy-mountains-its-lo",
+  "spoken": "Snow leopard. The snow leopard lives high in the snowy mountains. Its long, fluffy tail keeps it warm."
+ },
+ {
+  "text": "Clouded leopard. Its spots look like clouds. It loves to climb trees.",
+  "group": "animals",
+  "id": "clouded-leopard-its-spots-look-like-clouds-it-loves-to-climb-trees",
+  "spoken": "Clouded leopard. Its spots look like clouds. It loves to climb trees."
+ },
+ {
+  "text": "Red panda. The red panda lives in the mountains and loves to eat bamboo.",
+  "group": "animals",
+  "id": "red-panda-the-red-panda-lives-in-the-mountains-and-loves-to-eat-bamboo",
+  "spoken": "Red panda. The red panda lives in the mountains and loves to eat bamboo."
+ },
+ {
+  "text": "Blackbuck. The blackbuck is a very fast runner with long, twisty horns.",
+  "group": "animals",
+  "id": "blackbuck-the-blackbuck-is-a-very-fast-runner-with-long-twisty-horns",
+  "spoken": "Blackbuck. The blackbuck is a very fast runner with long, twisty horns."
+ },
+ {
+  "text": "Chinkara. The chinkara is a small gazelle that lives in the desert.",
+  "group": "animals",
+  "id": "chinkara-the-chinkara-is-a-small-gazelle-that-lives-in-the-desert",
+  "spoken": "Chinkara. The chinkara is a small gazelle that lives in the desert."
+ },
+ {
+  "text": "Nilgai. Nilgai means blue cow. It is the biggest antelope in India.",
+  "group": "animals",
+  "id": "nilgai-nilgai-means-blue-cow-it-is-the-biggest-antelope-in-india",
+  "spoken": "Nilgai. Nilgai means blue cow. It is the biggest antelope in India."
+ },
+ {
+  "text": "Spotted deer. The spotted deer has white spots on its brown coat.",
+  "group": "animals",
+  "id": "spotted-deer-the-spotted-deer-has-white-spots-on-its-brown-coat",
+  "spoken": "Spotted deer. The spotted deer has white spots on its brown coat."
+ },
+ {
+  "text": "Sambar deer. The sambar is a big deer that likes to be near water.",
+  "group": "animals",
+  "id": "sambar-deer-the-sambar-is-a-big-deer-that-likes-to-be-near-water",
+  "spoken": "Sambar deer. The sambar is a big deer that likes to be near water."
+ },
+ {
+  "text": "Barasingha. Barasingha means twelve points. Its antlers have many points.",
+  "group": "animals",
+  "id": "barasingha-barasingha-means-twelve-points-its-antlers-have-many-points",
+  "spoken": "Barasingha. Barasingha means twelve points. Its antlers have many points."
+ },
+ {
+  "text": "Sangai deer. The sangai is called the dancing deer. It lives on floating islands in a lake in Manipur.",
+  "group": "animals",
+  "id": "sangai-deer-the-sangai-is-called-the-dancing-deer-it-lives-on-floating",
+  "spoken": "Sangai deer. The sangai is called the dancing deer. It lives on floating islands in a lake in Manipur."
+ },
+ {
+  "text": "Hangul. The hangul is a deer from Kashmir with big, branching antlers.",
+  "group": "animals",
+  "id": "hangul-the-hangul-is-a-deer-from-kashmir-with-big-branching-antlers",
+  "spoken": "Hangul. The hangul is a deer from Kashmir with big, branching antlers."
+ },
+ {
+  "text": "Musk deer. The musk deer has no antlers, but it has two little tusks.",
+  "group": "animals",
+  "id": "musk-deer-the-musk-deer-has-no-antlers-but-it-has-two-little-tusks",
+  "spoken": "Musk deer. The musk deer has no antlers, but it has two little tusks."
+ },
+ {
+  "text": "Gaur. The gaur, or Indian bison, is the biggest wild cow in the world.",
+  "group": "animals",
+  "id": "gaur-the-gaur-or-indian-bison-is-the-biggest-wild-cow-in-the-world",
+  "spoken": "Gaur. The gaur, or Indian bison, is the biggest wild cow in the world."
+ },
+ {
+  "text": "Wild water buffalo. The wild water buffalo loves to cool off in muddy water.",
+  "group": "animals",
+  "id": "wild-water-buffalo-the-wild-water-buffalo-loves-to-cool-off-in-muddy-w",
+  "spoken": "Wild water buffalo. The wild water buffalo loves to cool off in muddy water."
+ },
+ {
+  "text": "Mithun. The mithun is a big, gentle cow of the hill forests.",
+  "group": "animals",
+  "id": "mithun-the-mithun-is-a-big-gentle-cow-of-the-hill-forests",
+  "spoken": "Mithun. The mithun is a big, gentle cow of the hill forests."
+ },
+ {
+  "text": "Indian wild ass. The wild ass lives in the Rann of Kutch and can run very fast.",
+  "group": "animals",
+  "id": "indian-wild-ass-the-wild-ass-lives-in-the-rann-of-kutch-and-can-run-ve",
+  "spoken": "Indian wild ass. The wild ass lives in the Rann of Kutch and can run very fast."
+ },
+ {
+  "text": "Camel. The camel has a hump and can walk a long way in the hot desert.",
+  "group": "animals",
+  "id": "camel-the-camel-has-a-hump-and-can-walk-a-long-way-in-the-hot-desert",
+  "spoken": "Camel. The camel has a hump and can walk a long way in the hot desert."
+ },
+ {
+  "text": "Yak. The yak has long, shaggy hair to keep warm in the cold mountains.",
+  "group": "animals",
+  "id": "yak-the-yak-has-long-shaggy-hair-to-keep-warm-in-the-cold-mountains",
+  "spoken": "Yak. The yak has long, shaggy hair to keep warm in the cold mountains."
+ },
+ {
+  "text": "Blue sheep. The blue sheep climbs steep, rocky mountains.",
+  "group": "animals",
+  "id": "blue-sheep-the-blue-sheep-climbs-steep-rocky-mountains",
+  "spoken": "Blue sheep. The blue sheep climbs steep, rocky mountains."
+ },
+ {
+  "text": "Nilgiri tahr. The Nilgiri tahr is a mountain goat that climbs rocky hills.",
+  "group": "animals",
+  "id": "nilgiri-tahr-the-nilgiri-tahr-is-a-mountain-goat-that-climbs-rocky-hil",
+  "spoken": "Nilgiri tahr. The Nilgiri tahr is a mountain goat that climbs rocky hills."
+ },
+ {
+  "text": "Serow. The serow looks like a goat with big ears. It lives in hilly forests.",
+  "group": "animals",
+  "id": "serow-the-serow-looks-like-a-goat-with-big-ears-it-lives-in-hilly-fore",
+  "spoken": "Serow. The serow looks like a goat with big ears. It lives in hilly forests."
+ },
+ {
+  "text": "Lion-tailed macaque. This monkey has a silver mane like a lion, and a tuft at the end of its tail.",
+  "group": "animals",
+  "id": "lion-tailed-macaque-this-monkey-has-a-silver-mane-like-a-lion-and-a-tu",
+  "spoken": "Lion-tailed macaque. This monkey has a silver mane like a lion, and a tuft at the end of its tail."
+ },
+ {
+  "text": "Hoolock gibbon. The hoolock gibbon is India's only ape. It swings from tree to tree and sings loudly.",
+  "group": "animals",
+  "id": "hoolock-gibbon-the-hoolock-gibbon-is-india-s-only-ape-it-swings-from-t",
+  "spoken": "Hoolock gibbon. The hoolock gibbon is India's only ape. It swings from tree to tree and sings loudly."
+ },
+ {
+  "text": "Golden langur. The golden langur is a monkey with golden fur.",
+  "group": "animals",
+  "id": "golden-langur-the-golden-langur-is-a-monkey-with-golden-fur",
+  "spoken": "Golden langur. The golden langur is a monkey with golden fur."
+ },
+ {
+  "text": "Phayre's langur. This monkey has white rings around its eyes, like glasses.",
+  "group": "animals",
+  "id": "phayre-s-langur-this-monkey-has-white-rings-around-its-eyes-like-glass",
+  "spoken": "Phayre's langur. This monkey has white rings around its eyes, like glasses."
+ },
+ {
+  "text": "Grey langur. The grey langur is a monkey with a black face and a very long tail.",
+  "group": "animals",
+  "id": "grey-langur-the-grey-langur-is-a-monkey-with-a-black-face-and-a-very-l",
+  "spoken": "Grey langur. The grey langur is a monkey with a black face and a very long tail."
+ },
+ {
+  "text": "Rhesus monkey. The rhesus monkey lives in forests, and in towns too.",
+  "group": "animals",
+  "id": "rhesus-monkey-the-rhesus-monkey-lives-in-forests-and-in-towns-too",
+  "spoken": "Rhesus monkey. The rhesus monkey lives in forests, and in towns too."
+ },
+ {
+  "text": "Sloth bear. The sloth bear has shaggy black fur and loves to eat ants and honey.",
+  "group": "animals",
+  "id": "sloth-bear-the-sloth-bear-has-shaggy-black-fur-and-loves-to-eat-ants-a",
+  "spoken": "Sloth bear. The sloth bear has shaggy black fur and loves to eat ants and honey."
+ },
+ {
+  "text": "Himalayan black bear. This bear has a white V shape on its chest.",
+  "group": "animals",
+  "id": "himalayan-black-bear-this-bear-has-a-white-v-shape-on-its-chest",
+  "spoken": "Himalayan black bear. This bear has a white V shape on its chest."
+ },
+ {
+  "text": "Giant squirrel. The Indian giant squirrel is as big as a cat and has a colourful coat.",
+  "group": "animals",
+  "id": "giant-squirrel-the-indian-giant-squirrel-is-as-big-as-a-cat-and-has-a-",
+  "spoken": "Giant squirrel. The Indian giant squirrel is as big as a cat and has a colourful coat."
+ },
+ {
+  "text": "Palm squirrel. The palm squirrel has three stripes on its back.",
+  "group": "animals",
+  "id": "palm-squirrel-the-palm-squirrel-has-three-stripes-on-its-back",
+  "spoken": "Palm squirrel. The palm squirrel has three stripes on its back."
+ },
+ {
+  "text": "Grey mongoose. The mongoose is small and very quick.",
+  "group": "animals",
+  "id": "grey-mongoose-the-mongoose-is-small-and-very-quick",
+  "spoken": "Grey mongoose. The mongoose is small and very quick."
+ },
+ {
+  "text": "Fishing cat. The fishing cat loves water and catches fish with its paws.",
+  "group": "animals",
+  "id": "fishing-cat-the-fishing-cat-loves-water-and-catches-fish-with-its-paws",
+  "spoken": "Fishing cat. The fishing cat loves water and catches fish with its paws."
+ },
+ {
+  "text": "Ganges river dolphin. This dolphin lives in rivers. It is India's national water animal.",
+  "group": "animals",
+  "id": "ganges-river-dolphin-this-dolphin-lives-in-rivers-it-is-india-s-nation",
+  "spoken": "Ganges river dolphin. This dolphin lives in rivers. It is India's national water animal."
+ },
+ {
+  "text": "Indus river dolphin. This river dolphin lives in the Beas river in Punjab.",
+  "group": "animals",
+  "id": "indus-river-dolphin-this-river-dolphin-lives-in-the-beas-river-in-punj",
+  "spoken": "Indus river dolphin. This river dolphin lives in the Beas river in Punjab."
+ },
+ {
+  "text": "Irrawaddy dolphin. This dolphin has a round head. It lives in Chilika lake.",
+  "group": "animals",
+  "id": "irrawaddy-dolphin-this-dolphin-has-a-round-head-it-lives-in-chilika-la",
+  "spoken": "Irrawaddy dolphin. This dolphin has a round head. It lives in Chilika lake."
+ },
+ {
+  "text": "Gharial. The gharial is a crocodile with a very long, thin nose for catching fish.",
+  "group": "animals",
+  "id": "gharial-the-gharial-is-a-crocodile-with-a-very-long-thin-nose-for-catc",
+  "spoken": "Gharial. The gharial is a crocodile with a very long, thin nose for catching fish."
+ },
+ {
+  "text": "Mugger crocodile. The mugger crocodile lives in rivers, lakes and ponds.",
+  "group": "animals",
+  "id": "mugger-crocodile-the-mugger-crocodile-lives-in-rivers-lakes-and-ponds",
+  "spoken": "Mugger crocodile. The mugger crocodile lives in rivers, lakes and ponds."
+ },
+ {
+  "text": "Saltwater crocodile. The saltwater crocodile is the biggest reptile in the world.",
+  "group": "animals",
+  "id": "saltwater-crocodile-the-saltwater-crocodile-is-the-biggest-reptile-in-",
+  "spoken": "Saltwater crocodile. The saltwater crocodile is the biggest reptile in the world."
+ },
+ {
+  "text": "Olive ridley turtle. Thousands of these sea turtles come to the beach together to lay their eggs.",
+  "group": "animals",
+  "id": "olive-ridley-turtle-thousands-of-these-sea-turtles-come-to-the-beach-t",
+  "spoken": "Olive ridley turtle. Thousands of these sea turtles come to the beach together to lay their eggs."
+ },
+ {
+  "text": "Green sea turtle. The green sea turtle swims in the sea and eats sea grass.",
+  "group": "animals",
+  "id": "green-sea-turtle-the-green-sea-turtle-swims-in-the-sea-and-eats-sea-gr",
+  "spoken": "Green sea turtle. The green sea turtle swims in the sea and eats sea grass."
+ },
+ {
+  "text": "Leatherback turtle. The leatherback is the biggest turtle in the world.",
+  "group": "animals",
+  "id": "leatherback-turtle-the-leatherback-is-the-biggest-turtle-in-the-world",
+  "spoken": "Leatherback turtle. The leatherback is the biggest turtle in the world."
+ },
+ {
+  "text": "Dugong. The dugong is a gentle sea cow that eats sea grass.",
+  "group": "animals",
+  "id": "dugong-the-dugong-is-a-gentle-sea-cow-that-eats-sea-grass",
+  "spoken": "Dugong. The dugong is a gentle sea cow that eats sea grass."
+ },
+ {
+  "text": "Butterfly fish. The butterfly fish swims around coral reefs.",
+  "group": "animals",
+  "id": "butterfly-fish-the-butterfly-fish-swims-around-coral-reefs",
+  "spoken": "Butterfly fish. The butterfly fish swims around coral reefs."
+ },
+ {
+  "text": "Peacock. The peacock is India's national bird. It spreads its beautiful tail feathers.",
+  "group": "animals",
+  "id": "peacock-the-peacock-is-india-s-national-bird-it-spreads-its-beautiful-",
+  "spoken": "Peacock. The peacock is India's national bird. It spreads its beautiful tail feathers."
+ },
+ {
+  "text": "Dhole. The dhole is a wild dog that lives in a big family.",
+  "group": "animals",
+  "id": "dhole-the-dhole-is-a-wild-dog-that-lives-in-a-big-family",
+  "spoken": "Dhole. The dhole is a wild dog that lives in a big family."
+ },
+ {
+  "text": "Slow loris. The slow loris has big round eyes and moves very slowly at night.",
+  "group": "animals",
+  "id": "slow-loris-the-slow-loris-has-big-round-eyes-and-moves-very-slowly-at-",
+  "spoken": "Slow loris. The slow loris has big round eyes and moves very slowly at night."
+ },
+ {
+  "text": "Kiang. The kiang is a wild donkey of the cold, high mountains.",
+  "group": "animals",
+  "id": "kiang-the-kiang-is-a-wild-donkey-of-the-cold-high-mountains",
+  "spoken": "Kiang. The kiang is a wild donkey of the cold, high mountains."
+ },
+ {
+  "text": "Himalayan marmot. The marmot lives in a burrow and whistles when danger comes.",
+  "group": "animals",
+  "id": "himalayan-marmot-the-marmot-lives-in-a-burrow-and-whistles-when-danger",
+  "spoken": "Himalayan marmot. The marmot lives in a burrow and whistles when danger comes."
+ },
+ {
+  "text": "Markhor. The markhor is a wild goat with long, twisting horns.",
+  "group": "animals",
+  "id": "markhor-the-markhor-is-a-wild-goat-with-long-twisting-horns",
+  "spoken": "Markhor. The markhor is a wild goat with long, twisting horns."
+ },
+ {
+  "text": "Coconut crab. The coconut crab is the biggest crab on land. It can crack coconuts.",
+  "group": "animals",
+  "id": "coconut-crab-the-coconut-crab-is-the-biggest-crab-on-land-it-can-crack",
+  "spoken": "Coconut crab. The coconut crab is the biggest crab on land. It can crack coconuts."
+ },
+ {
+  "text": "Spinner dolphin. The spinner dolphin jumps out of the water and spins in the air.",
+  "group": "animals",
+  "id": "spinner-dolphin-the-spinner-dolphin-jumps-out-of-the-water-and-spins-i",
+  "spoken": "Spinner dolphin. The spinner dolphin jumps out of the water and spins in the air."
+ }
+]

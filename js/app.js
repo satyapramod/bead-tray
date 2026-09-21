@@ -28,7 +28,13 @@
         h('button', {
           class: 'card', type: 'button', 'aria-label': a.name,
           onclick: () => { location.hash = '#' + a.id; },
-        }, h('span', { class: 'art', 'aria-hidden': 'true' }, a.art()), h('span', { class: 'name' }, a.name))))
+        }, h('span', { class: 'art', 'aria-hidden': 'true' }, a.art()), h('span', { class: 'name' }, a.name))),
+        h('button', {
+          class: 'card wide', type: 'button', 'aria-label': 'Animals of India',
+          onclick: () => { location.hash = '#animals'; },
+        },
+          h('span', { class: 'art', 'aria-hidden': 'true' }, ['elephant', 'tiger', 'peafowl'].map((id) => App.animalPhoto(id))),
+          h('span', { class: 'name' }, 'Animals of India')))
     );
   }
 
@@ -80,6 +86,12 @@
       App.speech.say('One, two, three.');
     };
 
+    const recorded = h('input', { id: 'recorded', type: 'checkbox', checked: s.recordedVoice !== false });
+    recorded.onchange = () => {
+      App.settings.set({ recordedVoice: recorded.checked });
+      App.speech.say('One, two, three, four, five.');
+    };
+
     const motion = h('input', { id: 'motion', type: 'checkbox', checked: s.reduceMotion });
     motion.onchange = () => App.settings.set({ reduceMotion: motion.checked });
 
@@ -91,9 +103,11 @@
     root.append(
       topbar('Parent corner'),
       h('main', { class: 'parent' },
+        h('label', { class: 'check' }, recorded, 'Use Linda’s recorded voice'),
+        h('p', { class: 'note' }, 'Anything without a recording, or everything when this is off, uses the browser voice below.'),
         App.speech.supported ? null : h('p', {}, 'This browser cannot speak. Try Chrome, Safari or Edge.'),
-        h('div', { class: 'field' }, h('label', { for: 'voice' }, 'Voice'), voiceSelect),
-        h('div', { class: 'field' }, h('label', { for: 'rate' }, 'Speaking speed: ', rateOut), rate),
+        h('div', { class: 'field' }, h('label', { for: 'voice' }, 'Browser voice'), voiceSelect),
+        h('div', { class: 'field' }, h('label', { for: 'rate' }, 'Browser voice speed: ', rateOut), rate),
         h('label', { class: 'check' }, motion, 'Reduce motion'),
         h('button', { class: 'btn', type: 'button', onclick: () => App.speech.say('One, two, three, four, five.') }, 'Test the voice'),
 
@@ -115,7 +129,9 @@
           h('li', {}, 'Then Adding (putting together) and Taking away. Each session is five short turns.'),
           h('li', {}, 'Nothing is ever marked wrong. When she picks the wrong tray, the app counts it aloud so she can see the difference herself.'),
           h('li', {}, 'Keep sessions short and stop while it is still fun. Real beads, buttons or pebbles on the table are the best follow-up.')),
-        h('p', { class: 'note' }, 'Everything stays on this device. No accounts, no ads, no tracking.'))
+        h('p', { class: 'note' }, 'Everything stays on this device. No accounts, no ads, no tracking.'),
+        h('p', { class: 'note' }, 'Voice: Linda, generated with ElevenLabs.'),
+        h('p', { class: 'note' }, 'Animal photos: Wikimedia Commons, via Wikipedia (tap “Photo: Wikipedia” on any animal for its credits). Map of India: datameet/maps (MIT), official boundary.'))
     );
   }
 
@@ -127,6 +143,7 @@
     find: App.screens.find,
     add: App.screens.add,
     take: App.screens.take,
+    animals: App.screens.animals,
     parent,
   };
 
@@ -144,6 +161,7 @@
   }
 
   App.applySettings();
+  App.speech.preload();
   window.addEventListener('hashchange', route);
   route();
 

@@ -2,7 +2,7 @@
 // (private mode, blocked storage), so every access is guarded.
 (function (App) {
   const KEY = 'beadtray.settings.v1';
-  const defaults = { voiceURI: '', rate: 0.8, reduceMotion: false };
+  const defaults = { recordedVoice: true, voiceURI: '', rate: 0.8, reduceMotion: false };
   const s = Object.assign({}, defaults);
 
   try {
