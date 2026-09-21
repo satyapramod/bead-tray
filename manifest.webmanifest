@@ -1,0 +1,14 @@
+{
+  "name": "Bead Tray",
+  "short_name": "Bead Tray",
+  "description": "A calm, Montessori-style app for learning to count, add and take away with beads.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F3EEE5",
+  "theme_color": "#F3EEE5",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
